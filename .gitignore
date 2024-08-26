@@ -16,3 +16,7 @@ docs/
 
 # zkSync
 zkout/
+
+
+broadcast/
+lib/
